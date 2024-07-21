@@ -1,0 +1,2 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\02SolveExpression\obj\Debug\02SolveExpression.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\02SolveExpression\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,3 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\03nums1To20\obj\Debug\03nums1To20.njsproj.AssemblyReference.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\03nums1To20\obj\Debug\03nums1To20.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\03nums1To20\bin\Microsoft.NodejsTools.WebRole.dll

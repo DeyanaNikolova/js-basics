@@ -1,0 +1,2 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\04triangleOf55Stars\obj\Debug\04triangleOf55Stars.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\04triangleOf55Stars\bin\Microsoft.NodejsTools.WebRole.dll

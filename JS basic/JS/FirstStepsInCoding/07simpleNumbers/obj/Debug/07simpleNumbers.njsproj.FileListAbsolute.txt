@@ -1,0 +1,2 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\07simpleNumbers\obj\Debug\07simpleNumbers.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\07simpleNumbers\bin\Microsoft.NodejsTools.WebRole.dll

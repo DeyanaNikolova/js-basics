@@ -1,0 +1,2 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\05rectangleArea\obj\Debug\05rectangleArea.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\05rectangleArea\bin\Microsoft.NodejsTools.WebRole.dll

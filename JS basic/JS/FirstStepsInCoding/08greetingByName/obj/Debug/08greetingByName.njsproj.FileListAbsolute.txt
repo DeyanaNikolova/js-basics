@@ -1,0 +1,2 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\08greetingByName\obj\Debug\08greetingByName.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\08greetingByName\bin\Microsoft.NodejsTools.WebRole.dll

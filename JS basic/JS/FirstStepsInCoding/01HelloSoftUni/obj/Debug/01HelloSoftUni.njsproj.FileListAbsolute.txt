@@ -1,0 +1,3 @@
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\01HelloSoftUni\obj\Debug\01HelloSoftUni.njsproj.AssemblyReference.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\01HelloSoftUni\obj\Debug\01HelloSoftUni.njsproj.CoreCompileInputs.cache
+C:\Users\deyan\Desktop\JS\FirstStepsInCoding\01HelloSoftUni\bin\Microsoft.NodejsTools.WebRole.dll
